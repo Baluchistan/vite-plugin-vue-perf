@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-vue-perf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Vite plugin to automatically inject performance marks into Vue components",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
@@ -28,4 +28,4 @@
     "magic-string": "^0.30.5",
     "@vue/compiler-sfc": "^3.4.0"
   }
-}\n
+}\n\n
