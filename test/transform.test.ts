@@ -17,3 +17,4 @@ describe('transformVue', () => {
 // feat: implement filtering via exclude option
 // docs: add more examples for configuration
 // test: improve vitest coverage
+// chore: format code with latest eslint rules
