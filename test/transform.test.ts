@@ -27,3 +27,4 @@ describe('transformVue', () => {
 // chore: setup CI workflow for tests
 // feat: allow custom prefix for performance marks
 // fix: handle script setup with no imports
+// docs: add contribution guidelines
