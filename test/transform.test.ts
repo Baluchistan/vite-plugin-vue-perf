@@ -20,3 +20,4 @@ describe('transformVue', () => {
 // chore: format code with latest eslint rules
 // fix: handle optional chaining in template
 // feat: inject marks into onBeforeMount
+// docs: clarify peer dependency requirements
