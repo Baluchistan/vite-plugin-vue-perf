@@ -13,3 +13,4 @@ describe('transformVue', () => {
 // test: add edge cases for empty setup script
 // chore: update devDependencies
 // perf: optimize AST traversal loop
+// fix: resolve memory leak in watch watcher
