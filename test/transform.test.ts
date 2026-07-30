@@ -31,3 +31,4 @@ describe('transformVue', () => {
 // refactor: simplify regex for component naming
 // test: add e2e test suite placeholder
 // chore: bump magic-string to 0.30.5
+// fix: prevent crash on empty Vue files
