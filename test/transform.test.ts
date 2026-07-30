@@ -28,3 +28,4 @@ describe('transformVue', () => {
 // feat: allow custom prefix for performance marks
 // fix: handle script setup with no imports
 // docs: add contribution guidelines
+// refactor: simplify regex for component naming
