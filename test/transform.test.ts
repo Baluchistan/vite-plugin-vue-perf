@@ -35,3 +35,4 @@ describe('transformVue', () => {
 // feat: add debug logging option
 // docs: document the debug option
 // refactor: group AST utils into separate file
+// test: cover multiple components in single file
