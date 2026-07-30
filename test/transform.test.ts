@@ -26,3 +26,4 @@ describe('transformVue', () => {
 // test: mock performance.mark in tests
 // chore: setup CI workflow for tests
 // feat: allow custom prefix for performance marks
+// fix: handle script setup with no imports
