@@ -21,3 +21,4 @@ describe('transformVue', () => {
 // fix: handle optional chaining in template
 // feat: inject marks into onBeforeMount
 // docs: clarify peer dependency requirements
+// refactor: extract magic-string operations
