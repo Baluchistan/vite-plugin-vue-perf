@@ -14,3 +14,4 @@ describe('transformVue', () => {
 // chore: update devDependencies
 // perf: optimize AST traversal loop
 // fix: resolve memory leak in watch watcher
+// feat: implement filtering via exclude option
