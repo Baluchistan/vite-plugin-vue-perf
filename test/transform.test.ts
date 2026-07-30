@@ -16,3 +16,4 @@ describe('transformVue', () => {
 // fix: resolve memory leak in watch watcher
 // feat: implement filtering via exclude option
 // docs: add more examples for configuration
+// test: improve vitest coverage
