@@ -23,3 +23,4 @@ describe('transformVue', () => {
 // docs: clarify peer dependency requirements
 // refactor: extract magic-string operations
 // fix: avoid duplicate marks on HMR
+// test: mock performance.mark in tests
