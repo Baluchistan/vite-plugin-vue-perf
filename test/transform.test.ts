@@ -19,3 +19,4 @@ describe('transformVue', () => {
 // test: improve vitest coverage
 // chore: format code with latest eslint rules
 // fix: handle optional chaining in template
+// feat: inject marks into onBeforeMount
