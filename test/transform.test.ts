@@ -25,3 +25,4 @@ describe('transformVue', () => {
 // fix: avoid duplicate marks on HMR
 // test: mock performance.mark in tests
 // chore: setup CI workflow for tests
+// feat: allow custom prefix for performance marks
