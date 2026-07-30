@@ -32,3 +32,4 @@ describe('transformVue', () => {
 // test: add e2e test suite placeholder
 // chore: bump magic-string to 0.30.5
 // fix: prevent crash on empty Vue files
+// feat: add debug logging option
