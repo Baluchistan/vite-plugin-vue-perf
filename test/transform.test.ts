@@ -9,3 +9,4 @@ describe('transformVue', () => {
   })
 })\n// fix: handle deeply nested reactive objects
 // feat: add support for defineModel
+// docs: fix typo in README installation guide
