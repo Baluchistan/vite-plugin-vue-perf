@@ -29,3 +29,4 @@ describe('transformVue', () => {
 // fix: handle script setup with no imports
 // docs: add contribution guidelines
 // refactor: simplify regex for component naming
+// test: add e2e test suite placeholder
