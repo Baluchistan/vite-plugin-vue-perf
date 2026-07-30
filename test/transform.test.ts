@@ -8,3 +8,4 @@ describe('transformVue', () => {
     expect(result?.code).toContain('performance.mark(\'App-mounted\')')
   })
 })\n// fix: handle deeply nested reactive objects
+// feat: add support for defineModel
