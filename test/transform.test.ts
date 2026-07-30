@@ -12,3 +12,4 @@ describe('transformVue', () => {
 // docs: fix typo in README installation guide
 // test: add edge cases for empty setup script
 // chore: update devDependencies
+// perf: optimize AST traversal loop
