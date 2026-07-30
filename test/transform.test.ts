@@ -22,3 +22,4 @@ describe('transformVue', () => {
 // feat: inject marks into onBeforeMount
 // docs: clarify peer dependency requirements
 // refactor: extract magic-string operations
+// fix: avoid duplicate marks on HMR
