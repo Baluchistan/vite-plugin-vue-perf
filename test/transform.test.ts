@@ -18,3 +18,4 @@ describe('transformVue', () => {
 // docs: add more examples for configuration
 // test: improve vitest coverage
 // chore: format code with latest eslint rules
+// fix: handle optional chaining in template
