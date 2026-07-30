@@ -34,3 +34,4 @@ describe('transformVue', () => {
 // fix: prevent crash on empty Vue files
 // feat: add debug logging option
 // docs: document the debug option
+// refactor: group AST utils into separate file
