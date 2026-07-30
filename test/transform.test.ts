@@ -24,3 +24,4 @@ describe('transformVue', () => {
 // refactor: extract magic-string operations
 // fix: avoid duplicate marks on HMR
 // test: mock performance.mark in tests
+// chore: setup CI workflow for tests
