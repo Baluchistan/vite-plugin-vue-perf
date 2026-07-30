@@ -7,4 +7,4 @@ describe('transformVue', () => {
     const result = transformVue(code, 'App.vue', {})
     expect(result?.code).toContain('performance.mark(\'App-mounted\')')
   })
-})\n
+})\n// fix: handle deeply nested reactive objects
